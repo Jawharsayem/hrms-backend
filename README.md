@@ -4,4 +4,4 @@ This repository contains the backend for a Human Resource Management System (HRM
 
 ## Contributor
 
-- [Jawhar Sayem](https://github.com/Jawharsayem)
+- [Sayem](https://github.com/Jawharsayem)
