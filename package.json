@@ -1,0 +1,35 @@
+{
+    "name": "hrms-backend",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "@azure/cosmos": "^4.4.1",
+        "axios": "^1.10.0",
+        "bcrypt": "^6.0.0",
+        "bcryptjs": "^2.4.3",
+        "cors": "^2.8.5",
+        "crypto": "^1.0.1",
+        "dayjs": "^1.11.13",
+        "dotenv": "^16.5.0",
+        "express": "^4.21.2",
+        "firebase-admin": "^13.4.0",
+        "jsonwebtoken": "^9.0.2",
+        "multer": "^2.0.0",
+        "node-fetch": "^3.3.2",
+        "nodemailer": "^7.0.3",
+        "pdfkit": "^0.17.1"
+    },
+    "description": "// README.md",
+    "keywords": [],
+    "author": "",
+    "contributors": [
+        {
+            "name": "Jawhar Sayem",
+            "url": "https://github.com/Jawharsayem"
+        }
+    ],
+    "license": "ISC"
+}
