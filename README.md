@@ -1,7 +1,38 @@
 # HRMS Backend
 
-This repository contains the backend for a Human Resource Management System (HRMS) built with Node.js, Express, and Azure Cosmos DB.
+Backend service for a custom Human Resource Management
+System (HRMS).
 
-## Contributor
+## Project Overview
 
-- [Sayem](https://github.com/Jawharsayem)
+This repository contains the server-side component
+responsible for handling application requests,
+business logic and data communication.
+
+## Technology Stack
+
+- Node.js
+- Express.js
+- Azure Cosmos DB
+- JavaScript
+
+## Key Dependencies
+
+- Firebase Admin SDK
+- JSON Web Tokens
+- Bcrypt
+- Axios
+- Multer
+- Nodemailer
+- PDFKit
+
+## Architecture
+
+The backend provides services for the HRMS mobile
+application developed using Flutter.
+
+## Developer
+
+Sayem Jawhar
+
+GitHub: https://github.com/Jawharsayem
